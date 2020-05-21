@@ -27,7 +27,7 @@ Individual chapters will be made available
 [here](https://github.com/probml/pyprobml/tree/master/chapters). 
 
  
-
+.
 
 
 
