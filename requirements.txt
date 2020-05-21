@@ -7,14 +7,13 @@ matplotlib
 numpy
 pandas
 patsy
-pylab
 pymc3
 scipy
 seaborn
 sklearn
 tensorflow
-tensorflow_datasets
-tensorflow_probability
+tensorflow-datasets
+tensorflow-probability
 theano
 torch
 torchvision
